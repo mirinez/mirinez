@@ -35,9 +35,9 @@ Every project is part of the spell. Every bug is part of the ritual.
 
 ---
 
-## ✧ Projects in Motion
+## ✧ Projects in Motion 📓
 
-### Study Portal Web-app 👽
+### Study Portal Web-app 
 My final course project — a mobile-first study platform designed to transform scattered information into structured knowledge.
 This project combines frontend architecture and backend logic to build a functional, for students, with organizers, forums, calendars, study groups, etc.
 
@@ -48,7 +48,7 @@ Development and design of a friendly and personal portfolio, to start showing th
 
 ## ✧ Beyond Code
 
-I love plants — tending to them feels like tending to living systems.
+I love plants — tending to them feels like tending to living systems 🍃🍀
 
 I’ve been writing since I was 10 years old.  
 I published my first poetry book (https://amzn.eu/d/0869GGQ6) and I’m currently working toward publishing the first book of an anticipated fantasy trilogy.
