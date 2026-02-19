@@ -78,7 +78,7 @@ I am learning to build worlds — line by line.
 ## ✧ Connect
 
 GitHub: (https://github.com/mirinez)  
-Portfolio (https://mirinez.github.io/html-portfolio/)
+Portfolio (in progress)
 
 ---
 
