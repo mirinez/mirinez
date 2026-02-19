@@ -37,7 +37,7 @@ Every project is part of the spell. Every bug is part of the ritual.
 
 ## ✧ Projects in Motion
 
-### Study Portal Web-app 📃
+### Study Portal Web-app ♢
 My final course project — a mobile-first study platform designed to transform scattered information into structured knowledge.
 This project combines frontend architecture and backend logic to build a functional, for students, with organizers, forums, calendars, study groups, etc.
 
@@ -62,7 +62,7 @@ I am deeply autodidactic — constantly studying, observing and learning across 
 
 ## ✧ Philosophy
 
-Code is modern alchemy 🍋‍🟩
+Code is modern alchemy 🫛
 
 You take symbols and intention,  
 and something real appears.
