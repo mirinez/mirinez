@@ -62,7 +62,7 @@ I am deeply autodidactic — constantly studying, observing and learning across 
 
 ## ✧ Philosophy
 
-🧪 Code is modern alchemy.
+🎍 Code is modern alchemy.
 
 You take symbols and intention,  
 and something real appears.
