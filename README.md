@@ -53,8 +53,8 @@ I love plants — tending to them feels like tending to living systems 🍃🍀
 I’ve been writing since I was 10 years old.  
 I published my first poetry book (https://amzn.eu/d/0869GGQ6), and I’m currently working toward publishing the first book of an anticipated fantasy trilogy.
 
-Language fascinates me as much as code:
-Spanish · German · Italian · English.
+Language fascinates me as much as code.
+I speak: Spanish · German · Italian · English.
 
 I am deeply autodidactic — constantly studying, observing and learning across disciplines.
 
