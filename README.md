@@ -79,6 +79,7 @@ I am learning to build worlds — line by line.
 ## ✧ Connect
 
 LinkedIn: https://www.linkedin.com/in/miriam-dominguezm 
+
 Portfolio: https://mirinez.github.io/portfolio (in progress)
 
 ---
