@@ -4,7 +4,7 @@
 
 <h2 align="center">✦ Miri 🌱</h2>
 
-<p align="center"><em>“Learning the craft of code as a form of modern magic”<p align="center">·</p></em></p>
+<p align="center"><em>“Learning the craft of code as a form of modern magic”</em></p>
  
 <br>
 
@@ -18,7 +18,7 @@ Currently focused on:
 • Backend fundamentals & architecture  
 • System thinking and clean UI design
 
-_“Every project is part of the spell. Every bug is part of the ritual”_ <p align="center">·</p>
+_“Every project is part of the spell. Every bug is part of the ritual”_
 
 ---
 
@@ -51,7 +51,7 @@ Come and visit me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=flat&labelColor=ffffff&color=ffffff&logoColor=000000)](https://www.linkedin.com/in/miriam-dominguezm) [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat&labelColor=ffffff&color=ffffff)](https://mirinez.github.io/portfolio) 
 
-_“All technology is a spell, if you know how to read it”_ <p align="center">·</p>
+_“All technology is a spell, if you know how to read it”_
 
 ---
 
