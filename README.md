@@ -66,7 +66,7 @@ _“All technology is a spell, if you know how to read it.”_
 ---
 
 <details>
-  <summary>✧ Core Web Technologies</summary>
+  <summary>✦ Core Web Technologies</summary>
 
   <br>
 
