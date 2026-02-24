@@ -1,0 +1,23 @@
+name: Update README (Waka / Stats)
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # cada día
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update README
+        uses: athul/waka-readme@master
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: "░▒▓█"
+          TIME_RANGE: all_time
+          LANG_COUNT: 5
+          SHOW_TIME: false
+          SHOW_TOTAL: false
