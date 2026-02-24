@@ -50,6 +50,12 @@ _“All technology is a spell, if you know how to read it.”_
 
 ---
 
+### ✧ How I Think About Projects
+
+User → Interface → Logic → Structure → Clarity
+
+---
+
 ### ✧ Core Web Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,12 +63,3 @@ _“All technology is a spell, if you know how to read it.”_
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mirinez&show_icons=true&theme=default&title_color=59896C&icon_color=59896C&text_color=0b0f14&bg_color=ffffff" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirinez&layout=compact&title_color=59896C&text_color=0b0f14&bg_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mirinez&background=FFFFFF&ring=59896C&fire=59896C&currStreakLabel=59896C&sideLabels=0b0f14&currStreakNum=0b0f14&sideNums=0b0f14" />
-</p>
