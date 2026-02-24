@@ -50,9 +50,8 @@ _“All technology is a spell, if you know how to read it.”_
 
 ---
 
-### ✧ How I Think About Projects
-
-User → Interface → Logic → Structure → Clarity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
