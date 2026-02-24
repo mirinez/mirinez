@@ -58,10 +58,14 @@ _“All technology is a spell, if you know how to read it”_
 ### ✧ Developer Dashboard
 
   <!--START_SECTION:waka-->
-  From: 23 February 2026 - To: 23 February 2026  
 
-  No activity tracked
-  <!--END_SECTION:waka-->
+```txt
+From: 23 February 2026 - To: 23 February 2026
+
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
   
 <details>
   <summary>✦ Core Web Technologies</summary>
