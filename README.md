@@ -10,7 +10,7 @@
 
 ### ✧ About
 
-Aspiring Full Stack Web Developer, currently studying and building every day 🍃
+Aspiring Full Stack Web Developer, currently studying and building every day 🌿
 
 Currently focused on:
 
@@ -49,14 +49,11 @@ Spanish · German · Italian · English.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=flat&labelColor=ffffff&color=ffffff&logoColor=000000)](https://www.linkedin.com/in/miriam-dominguezm) [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat&labelColor=ffffff&color=ffffff)](https://mirinez.github.io/portfolio) 
 
-_“All technology is a spell, if you know how to read it.”_ 🌿
+_“All technology is a spell, if you know how to read it.”_
 
 ---
 
-<details>
-  <summary>✧ Developer Dashboard</summary>
-
-  <br>
+### ✧ Developer Dashboard
 
   <!--START_SECTION:waka-->
   From: 23 February 2026 - To: 23 February 2026  
@@ -64,9 +61,7 @@ _“All technology is a spell, if you know how to read it.”_ 🌿
   No activity tracked
   <!--END_SECTION:waka-->
 
-</details>
-
-<br>
+---
 
 <details>
   <summary>✧ Core Web Technologies</summary>
