@@ -1,6 +1,6 @@
 # ✦ Miri 🌱
 
-> Learning the craft of code — turning structure into experience.
+> Learning the craft of code as a form of modern magic.
 
 ---
 
