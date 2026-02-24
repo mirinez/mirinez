@@ -44,12 +44,14 @@ Languages: Spanish · German · Italian · English.
 ### ✧ Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/miriam-dominguezm" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/000000" height="20" />
+  <a href="https://www.linkedin.com/in/miriam-dominguezm">
+    <img src="https://cdn.simpleicons.org/linkedin/000000" height="18" />
+    LinkedIn
   </a>
-   
-  <a href="https://mirinez.github.io/portfolio" target="_blank">
-    <img src="https://cdn.simpleicons.org/githubpages/000000" height="20" />
+  <br>
+  <a href="https://mirinez.github.io/portfolio">
+    <img src="https://cdn.simpleicons.org/githubpages/000000" height="18" />
+    Portfolio
   </a>
 </p>
 
