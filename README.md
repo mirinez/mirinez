@@ -1,10 +1,10 @@
-# ✦ Miri 🌱
+## ✦ Miri 🌱
 
 > _“Learning the craft of code as a form of modern magic”_.
 
 ---
 
-## ✧ About
+### ✧ About
 
 Aspiring Full Stack Web Developer, currently studying and building every day 🍃
 
@@ -17,7 +17,7 @@ _“Every project is part of the spell. Every bug is part of the ritual”_.
 
 ---
 
-## ✧ Projects
+### ✧ Projects
 
 **Study Portal Web-App**  ⌨️
 
@@ -29,7 +29,7 @@ Personal minimal portfolio — design and development in progress.
 
 ---
 
-## ✧ Beyond Code ☘️
+### ✧ Beyond Code ☘️
 
 Writer and plant enthusiast.  
 Published poet. Currently working on a fantasy trilogy.  
@@ -37,7 +37,7 @@ Languages: Spanish · German · Italian · English.
 
 ---
 
-## ✧ Connect
+### ✧ Connect
 
 LinkedIn: https://www.linkedin.com/in/miriam-dominguezm  
 Portfolio: https://mirinez.github.io/portfolio (in progress) 🐛
@@ -46,7 +46,7 @@ _“All technology is a spell, if you know how to read it.”_
 
 ---
 
-## ✧ Core Web Technologies
+### ✧ Core Web Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
