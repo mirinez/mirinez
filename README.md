@@ -1,6 +1,6 @@
 # ✦ Miri 🌱
 
-> Learning the craft of code as a form of modern magic.
+> _“Learning the craft of code as a form of modern magic”_.
 
 ---
 
@@ -22,9 +22,11 @@ _“Every project is part of the spell. Every bug is part of the ritual”_.
 ## ✧ Projects
 
 **Study Portal Web-App**  ⌨️
+
 Mobile-first study platform combining frontend architecture and backend logic to transform scattered information into structured knowledge.
 
 **Portfolio**  🍀
+
 Personal minimal portfolio — design and development in progress.
 
 ---
