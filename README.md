@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Palatino&size=22&duration=3000&pause=800&color=9CDB51&center=true&vCenter=true&width=720&lines=Full+Stack+in+progress;Learning+to+code+magic" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Palatino&size=22&duration=3000&pause=800&color=84C14E&center=true&vCenter=true&width=720&lines=Full+Stack+in+progress;Learning+to+code+magic" />
 </p>
 
 ## ✦ Miri 🌱
