@@ -59,5 +59,10 @@ _“All technology is a spell, if you know how to read it.”_
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirinez&theme=default" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mirinez&show_icons=true&theme=default&title_color=59896C&icon_color=59896C&text_color=0b0f14&bg_color=ffffff" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirinez&layout=compact&title_color=59896C&text_color=0b0f14&bg_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mirinez&background=FFFFFF&ring=59896C&fire=59896C&currStreakLabel=59896C&sideLabels=0b0f14&currStreakNum=0b0f14&sideNums=0b0f14" />
 </p>
