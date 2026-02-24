@@ -5,10 +5,16 @@ on:
     - cron: "0 * * * *"   # cada hora
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      - name: Set timezone
+        run: echo "TZ=Europe/Berlin" >> $GITHUB_ENV
+
       - name: Update README
         uses: athul/waka-readme@master
         with:
@@ -17,7 +23,7 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: "░▒▓█"
-          TIME_RANGE: all_time
+          TIME_RANGE: last_7_days
           LANG_COUNT: 5
           SHOW_TIME: false
           SHOW_TOTAL: false
