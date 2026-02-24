@@ -45,11 +45,11 @@ Languages: Spanish · German · Italian · English.
 
 <p>
   <a href="https://www.linkedin.com/in/miriam-dominguezm">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="20" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="20">
   </a>
    
   <a href="https://mirinez.github.io/portfolio">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="20" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20">
   </a>
 </p>
 
