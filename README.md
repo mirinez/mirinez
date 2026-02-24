@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Palatino&size=22&duration=3000&pause=800&color=1A7F4B&center=true&vCenter=true&width=600&lines=Learning+the+craft+of+code;Modern+magic+through+systems;Full+Stack+in+progress+🌱" />
+</p>
+
 ## ✦ Miri 🌱
 
 > _“Learning the craft of code as a form of modern magic”_.
