@@ -62,9 +62,7 @@ _“All technology is a spell, if you know how to read it”_
 
   No activity tracked
   <!--END_SECTION:waka-->
-
----
-
+  
 <details>
   <summary>✦ Core Web Technologies</summary>
 
