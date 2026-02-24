@@ -57,3 +57,8 @@ _“All technology is a spell, if you know how to read it.”_
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mirinez&show_icons=true&theme=default&title_color=59896C&icon_color=59896C&text_color=0b0f14&bg_color=ffffff" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirinez&layout=compact&title_color=59896C&text_color=0b0f14&bg_color=ffffff" />
+</p>
