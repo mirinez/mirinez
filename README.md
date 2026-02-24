@@ -8,10 +8,6 @@
  
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Palatino&size=16&duration=2500&pause=2000&color=84C14E&center=true&vCenter=true&width=500&lines=Now+compiling+knowledge...;Refining+structure...;Building+with+intention..." />
-</p>
-
 ### ✧ About
 
 Aspiring Full Stack Web Developer, currently studying and building every day.
@@ -81,5 +77,3 @@ _“All technology is a spell, if you know how to read it.”_
   </p>
 
 </details>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=84C14E&height=90&section=footer"/>
