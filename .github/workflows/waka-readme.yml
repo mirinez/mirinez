@@ -2,7 +2,7 @@ name: Update README (Waka / Stats)
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # cada día
+    - cron: "0 * * * *"   # cada hora
   workflow_dispatch:
 
 jobs:
