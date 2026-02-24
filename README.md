@@ -13,6 +13,7 @@
 Aspiring Full Stack Web Developer, currently studying and building every day 🍃
 
 Currently focused on:
+
 • HTML · CSS · JavaScript  
 • Backend fundamentals & architecture  
 • System thinking and clean UI design
@@ -43,9 +44,11 @@ Languages: Spanish · German · Italian · English.
 
 ### ✧ Connect
 
+Come and visit me!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=flat&logo=linkedin&logoColor=000000&labelColor=ffffff&color=ffffff)](https://www.linkedin.com/in/miriam-dominguezm)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat&logo=github&logoColor=000000&labelColor=ffffff&color=ffffff)](https://mirinez.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat&logo=github&logoColor=000000&labelColor=ffffff&color=ffffff)](https://mirinez.github.io/portfolio) (in progress) 🐛
 
 _“All technology is a spell, if you know how to read it.”_
 
