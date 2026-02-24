@@ -2,11 +2,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Palatino&size=22&duration=3000&pause=800&color=84C14E&center=true&vCenter=true&width=720&lines=Full+Stack+in+progress;Learning+to+code+magic" />
 </p>
 
-## ✦ Miri 🌱
+<h2 align="center">✦ Miri 🌱</h2>
 
-> _“Learning the craft of code as a form of modern magic”_.
+<p align="center"><em>“Learning the craft of code as a form of modern magic”.</em></p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/miriam-dominguezm">
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat&labelColor=ffffff&color=ffffff" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://mirinez.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat&labelColor=ffffff&color=ffffff" />
+  </a>
+</p>
+
+<br>
 
 ### ✧ About
 
@@ -20,52 +30,49 @@ Currently focused on:
 
 _“Every project is part of the spell. Every bug is part of the ritual”_.
 
----
+<br>
 
 ### ✧ Projects
 
-**Study Portal Web-App** 
+**Study Portal Web-App**
 
 Mobile-first study platform combining frontend architecture and backend logic to transform scattered information into structured knowledge.
 
-**Portfolio** 
+**Portfolio**
 
 Personal minimal portfolio — design and development in progress.
 
----
+<br>
 
 ### ✧ Beyond Code ☘️
 
 Writer and plant enthusiast.  
 Published poet. Currently working on a fantasy trilogy.
 
-Languages: 
+Languages:
 
 Spanish · German · Italian · English.
 
----
+<br>
 
-### ✧ Connect
+<p align="center"><em>“All technology is a spell, if you know how to read it.”</em> 🌿</p>
 
-Come and visit me!
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=flat&labelColor=ffffff&color=ffffff&logoColor=000000)](https://www.linkedin.com/in/miriam-dominguezm)  [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat&labelColor=ffffff&color=ffffff)](https://mirinez.github.io/portfolio)
+<details>
+  <summary>✧ Developer Dashboard</summary>
 
-_“All technology is a spell, if you know how to read it.”_ 🌿
+  <br>
 
----
+  <!--START_SECTION:waka-->
+  From: 23 February 2026 - To: 23 February 2026  
 
-<!--START_SECTION:waka-->
+  No activity tracked
+  <!--END_SECTION:waka-->
 
-```txt
-From: 23 February 2026 - To: 23 February 2026
+</details>
 
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
----
+<br>
 
 <details>
   <summary>✧ Core Web Technologies</summary>
@@ -79,5 +86,3 @@ No activity tracked
   </p>
 
 </details>
-
----
