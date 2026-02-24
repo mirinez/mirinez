@@ -43,8 +43,15 @@ Languages: Spanish · German · Italian · English.
 
 ### ✧ Connect
 
-LinkedIn: https://www.linkedin.com/in/miriam-dominguezm  
-Portfolio: https://mirinez.github.io/portfolio (in progress) 🐛
+<p>
+  <a href="https://www.linkedin.com/in/miriam-dominguezm" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/000000" height="20" />
+  </a>
+   
+  <a href="https://mirinez.github.io/portfolio" target="_blank">
+    <img src="https://cdn.simpleicons.org/githubpages/000000" height="20" />
+  </a>
+</p>
 
 _“All technology is a spell, if you know how to read it.”_
 
