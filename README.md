@@ -37,8 +37,11 @@ Personal minimal portfolio — design and development in progress.
 ### ✧ Beyond Code ☘️
 
 Writer and plant enthusiast.  
-Published poet. Currently working on a fantasy trilogy.  
-Languages: Spanish · German · Italian · English.
+Published poet. Currently working on a fantasy trilogy.
+
+Languages: 
+
+Spanish · German · Italian · English.
 
 ---
 
@@ -50,7 +53,7 @@ Come and visit me!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat&logo=github&logoColor=000000&labelColor=ffffff&color=ffffff)](https://mirinez.github.io/portfolio)
 
-_“All technology is a spell, if you know how to read it.”_ 🐛
+_“All technology is a spell, if you know how to read it.”_ 🌿
 
 ---
 
