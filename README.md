@@ -5,8 +5,6 @@
 <h2 align="center">✦ Miri 🌱</h2>
 
 <p align="center"><em>“Learning the craft of code as a form of modern magic”.</em></p>
-
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=flat&labelColor=ffffff&color=ffffff&logoColor=000000)](https://www.linkedin.com/in/miriam-dominguezm) [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat&labelColor=ffffff&color=ffffff)](https://mirinez.github.io/portfolio)
  
 <br>
 
@@ -22,7 +20,7 @@ Currently focused on:
 
 _“Every project is part of the spell. Every bug is part of the ritual”_.
 
-<br>
+---
 
 ### ✧ Projects
 
@@ -34,7 +32,7 @@ Mobile-first study platform combining frontend architecture and backend logic to
 
 Personal minimal portfolio — design and development in progress.
 
-<br>
+---
 
 ### ✧ Beyond Code ☘️
 
@@ -45,11 +43,15 @@ Languages:
 
 Spanish · German · Italian · English.
 
-<br>
+---
 
-<p align="center"><em>“All technology is a spell, if you know how to read it.”</em> 🌿</p>
+### ✧ Connect Come and visit me! 
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=flat&labelColor=ffffff&color=ffffff&logoColor=000000)](https://www.linkedin.com/in/miriam-dominguezm) [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat&labelColor=ffffff&color=ffffff)](https://mirinez.github.io/portfolio) 
+
+_“All technology is a spell, if you know how to read it.”_ 🌿
+
+---
 
 <details>
   <summary>✧ Developer Dashboard</summary>
