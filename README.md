@@ -45,7 +45,21 @@ Languages: Spanish · German · Italian · English.
 
 ---
 
-## Connect
+## ✧ Tools & Runtime
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## ✧ Currently Exploring
+
+![Backend Architecture](https://img.shields.io/badge/Backend-Architecture-4c9141?style=for-the-badge)
+![Mobile First](https://img.shields.io/badge/Mobile-First-4c9141?style=for-the-badge)
+
+---
+
+## ✧ Connect
 
 LinkedIn: https://www.linkedin.com/in/miriam-dominguezm  
 Portfolio: https://mirinez.github.io/portfolio (in progress) 🐛
