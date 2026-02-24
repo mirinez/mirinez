@@ -20,8 +20,6 @@ Currently focused on:
 
 _“Every project is part of the spell. Every bug is part of the ritual”_.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=84C14E&height=90&section=footer"/>
-
 ---
 
 ### ✧ Projects 🌿
@@ -79,3 +77,5 @@ _“All technology is a spell, if you know how to read it.”_
   </p>
 
 </details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=84C14E&height=90&section=footer"/>
