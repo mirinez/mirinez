@@ -7,8 +7,7 @@
 <p align="center"><em>“Learning the craft of code as a form of modern magic”.</em></p>
 
 <p align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" />
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=flat&labelColor=ffffff&color=ffffff&logoColor=000000)](https://www.linkedin.com/in/miriam-dominguezm) [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat&labelColor=ffffff&color=ffffff)]  (https://mirinez.github.io/portfolio)
 </p>
 
 <br>
