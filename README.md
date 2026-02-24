@@ -8,7 +8,7 @@
  
 <br>
 
-### ✧ About
+### ✧ About 
 
 Aspiring Full Stack Web Developer, currently studying and building every day.
 
@@ -47,7 +47,7 @@ Spanish · German · Italian · English.
 
 ### ✧ Connect 
 
-Come and visit me! 
+Come and visit me! 🐌
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=flat&labelColor=ffffff&color=ffffff&logoColor=000000)](https://www.linkedin.com/in/miriam-dominguezm) [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat&labelColor=ffffff&color=ffffff)](https://mirinez.github.io/portfolio) 
 
