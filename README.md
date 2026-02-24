@@ -77,3 +77,7 @@ _“All technology is a spell, if you know how to read it.”_
   </p>
 
 </details>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Palatino&size=14&duration=4500&pause=2500&color=84C14E&center=true&vCenter=true&width=420&lines=refining+structure...;building+with+intention..." />
+</p>
