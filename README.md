@@ -15,6 +15,8 @@ Currently focused on:
 
 I care about intentional interfaces, functional elegance, and creative experimentation without chaos.
 
+_“Every project is part of the spell. Every bug is part of the ritual”_.
+
 ---
 
 ## ✧ Projects
