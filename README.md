@@ -8,6 +8,10 @@
  
 <br>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Palatino&size=16&duration=2500&pause=2000&color=84C14E&center=true&vCenter=true&width=500&lines=Now+compiling+knowledge...;Refining+structure...;Building+with+intention..." />
+</p>
+
 ### ✧ About
 
 Aspiring Full Stack Web Developer, currently studying and building every day.
