@@ -77,6 +77,6 @@ _“All technology is a spell, if you know how to read it”_
 </details>
 
 <!-- 🐌 If you found this, you read source code. Respect. -->
-Slow and steady wins the race. <sub>🐌</sub>
+Hi! hi! 🐌
 
 ---
