@@ -59,5 +59,5 @@ _“All technology is a spell, if you know how to read it.”_
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mirinez&background=FFFFFF&ring=59896C&fire=59896C&currStreakLabel=59896C&sideLabels=0b0f14&currStreakNum=0b0f14&sideNums=0b0f14" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirinez&theme=default" />
 </p>
