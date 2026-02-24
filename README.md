@@ -1,12 +1,17 @@
+<!-- ===========================
+     ✦ Miri 🌱 — GitHub README
+     Minimal · Alive · Slightly Arcane
+=========================== -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Palatino&size=22&duration=3000&pause=800&color=1A7F4B&center=true&vCenter=true&width=600&lines=Learning+the+craft+of+code;Modern+magic+through+systems;Full+Stack+in+progress" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Palatino&size=22&duration=3000&pause=800&color=1A7F4B&center=true&vCenter=true&width=720&lines=Learning+the+craft+of+code+as+a+form+of+modern+magic;Full+Stack+in+progress+%F0%9F%8C%B1;Every+bug+is+part+of+the+ritual" />
 </p>
 
-```bash
-> iniciando miri.exe
-> cargando grimorio...
-> sistema listo
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mirinez&color=1A7F4B&style=flat-square" />
+</p>
+
+---
 
 ## ✦ Miri 🌱
 
@@ -18,10 +23,10 @@
 
 Aspiring Full Stack Web Developer, currently studying and building every day 🍃
 
-Currently focused on:
+Currently focused on:  
 • HTML · CSS · JavaScript  
 • Backend fundamentals & architecture  
-• System thinking and clean UI design
+• System thinking and clean UI design  
 
 _“Every project is part of the spell. Every bug is part of the ritual”_.
 
@@ -29,11 +34,11 @@ _“Every project is part of the spell. Every bug is part of the ritual”_.
 
 ### ✧ Projects
 
-**Study Portal Web-App**  ⌨️
+**Study Portal Web-App** ⌨️
 
 Mobile-first study platform combining frontend architecture and backend logic to transform scattered information into structured knowledge.
 
-**Portfolio**  🍀
+**Portfolio** 🍀
 
 Personal minimal portfolio — design and development in progress.
 
@@ -63,3 +68,29 @@ _“All technology is a spell, if you know how to read it.”_
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
+
+<details>
+  <summary>✦ Extra (lore + stats)</summary>
+
+  <br/>
+
+  ```bash
+  > iniciando miri.exe
+  > cargando grimorio...
+  > sistema listo
+  ```
+
+  <p align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mirinez&show_icons=true&theme=default&title_color=1A7F4B&icon_color=1A7F4B&text_color=0b0f14&bg_color=ffffff" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirinez&layout=compact&title_color=1A7F4B&text_color=0b0f14&bg_color=ffffff" />
+  </p>
+
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=mirinez&background=FFFFFF&ring=1A7F4B&fire=1A7F4B&currStreakLabel=1A7F4B&sideLabels=0b0f14&currStreakNum=0b0f14&sideNums=0b0f14" />
+  </p>
+
+</details>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A7F4B&height=100&section=footer"/>
