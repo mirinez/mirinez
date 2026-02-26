@@ -14,7 +14,7 @@ Aspiring Full Stack Web Developer, currently studying and building every day.
 
 Currently focused on:
 
-• HTML · CSS · JavaScript  
+• HTML - CSS - JavaScript  
 • Backend fundamentals & architecture  
 • System thinking and clean UI design
 
