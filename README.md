@@ -30,7 +30,7 @@ Mobile-first study platform combining frontend architecture and backend logic to
 
 **Portfolio**
 
-Personal minimal portfolio — design and development in progress.
+Personal minimal portfolio, design and development in progress.
 
 ---
 
