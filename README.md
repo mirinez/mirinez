@@ -41,7 +41,7 @@ Published poet. Currently working on a fantasy trilogy.
 
 Languages:
 
-Spanish · German · Italian · English.
+Spanish · German · Italian · English
 
 ---
 
