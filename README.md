@@ -28,8 +28,8 @@ _“Every project is part of the spell. Every bug is part of the ritual”_
 
 Full stack project (in progress). Platform for students with calendars, classes, grades, student groups, news, exams, etc.
 
-**Portfolio**  
-[![Portfolio](https://img.shields.io/badge/miriamdominguezm.com-ffffff?style=flat&labelColor=ffffff&color=ffffff)](https://miriam-dominguezm.com)
+**Business card**  
+[![Business-card](https://img.shields.io/badge/business-card-ffffff?style=flat&labelColor=ffffff&color=ffffff)]([https://miriam-dominguezm.com](https://mirinez.github.io/business-card/))
 
 ---
 
