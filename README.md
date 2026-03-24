@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Palatino&size=22&duration=3000&pause=800&color=84C14E&center=true&vCenter=true&width=720&lines=Full+Stack+in+progress;Learning+to+code+magic" />
 </p>
 
-<h2 align="center">✦ Miri 🌱</h2>
+<h2 align="center">✦ Miri </h2>
 
 <p align="center"><em>“Learning the craft of code as a form of modern magic”</em></p>
  
