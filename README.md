@@ -30,7 +30,6 @@ Full stack project (in progress). Platform for students with calendars, classes,
 
 **Portfolio**
 
-Personal minimal portfolio  
 [![Portfolio](https://img.shields.io/badge/miriamdominguezm.com-ffffff?style=flat&labelColor=ffffff&color=ffffff)](https://miriam-dominguezm.com)
 
 ---
