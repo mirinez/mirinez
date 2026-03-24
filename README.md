@@ -27,7 +27,7 @@ _“Every project is part of the spell. Every bug is part of the ritual”_
 **Study Portal**
 
 Full stack project (in progress)  
-Platform for students with calendars, classes, grades, student groups, news, exams, etc.
+Platform for students with calendars, classes, grades, student groups, news, exams, etc
 
 **Business card**  
 [![Business card](https://img.shields.io/badge/mdm-ffffff?style=flat&labelColor=ffffff&color=ffffff)](https://mirinez.github.io/business-card/)
