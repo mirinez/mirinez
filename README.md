@@ -22,15 +22,16 @@ _“Every project is part of the spell. Every bug is part of the ritual”_
 
 ---
 
-### ✧ Projects 🌿
+### ✧ Projects
 
-**Study Portal Web-App**
+**Study Portal**
 
-Mobile-first study platform combining frontend architecture and backend logic to transform scattered information into structured knowledge.
+Full stack project (in progress). Platform for students with calendars, classes, grades, student groups, news, exams, etc.
 
 **Portfolio**
 
 Personal minimal portfolio, design and development in progress.
+[![Portfolio](https://img.shields.io/badge/miriamdominguezm.com-ffffff?style=flat&labelColor=ffffff&color=ffffff)](https://miriam-dominguezm.com)
 
 ---
 
