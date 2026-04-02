@@ -10,7 +10,7 @@
 
 ### ✧ About 
 
-Aspiring Full Stack Web Developer, currently studying and building every day.
+Aspiring Full Stack Developer, currently studying and building every day.
 
 Currently focused on:
 
