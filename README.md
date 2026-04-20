@@ -64,12 +64,11 @@ _“All technology is a spell, if you know how to read it”_
   <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2026 - To: 19 April 2026
+From: 13 April 2026 - To: 20 April 2026
 
-JavaScript                         ██████████████▒░░░░░░░░░░   56.87 %
-HTML                               █████▓░░░░░░░░░░░░░░░░░░░   22.59 %
-CSS                                █████░░░░░░░░░░░░░░░░░░░░   20.44 %
-JSON                               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+JavaScript                         ██████████▓░░░░░░░░░░░░░░   42.96 %
+HTML                               ███████▒░░░░░░░░░░░░░░░░░   29.22 %
+CSS                                ███████░░░░░░░░░░░░░░░░░░   27.82 %
 ```
 
 <!--END_SECTION:waka-->
