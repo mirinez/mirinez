@@ -64,10 +64,11 @@ _“All technology is a spell, if you know how to read it”_
   <!--START_SECTION:waka-->
 
 ```txt
-From: 16 April 2026 - To: 23 April 2026
+From: 17 April 2026 - To: 24 April 2026
 
-Docker                         ███████████████████████▒░   92.75 %
-YAML                           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Docker                         █████████████████▒░░░░░░░   68.91 %
+HTML                           ██████░░░░░░░░░░░░░░░░░░░   23.63 %
+YAML                           ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
 ```
 
 <!--END_SECTION:waka-->
