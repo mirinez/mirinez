@@ -64,13 +64,13 @@ _“All technology is a spell, if you know how to read it”_
   <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2026 - To: 30 April 2026
+From: 24 April 2026 - To: 01 May 2026
 
-PHP                                              █████████▓░░░░░░░░░░░░░░░   38.10 %
-HTML                                             ████████▒░░░░░░░░░░░░░░░░   33.69 %
-YAML                                             ██████▒░░░░░░░░░░░░░░░░░░   24.75 %
-Nginx configuration file                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Docker                                           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+HTML                                             ███████████░░░░░░░░░░░░░░   43.95 %
+PHP                                              ██████████▒░░░░░░░░░░░░░░   41.27 %
+YAML                                             ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
+Nginx configuration file                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Docker                                           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
