@@ -21,6 +21,24 @@ Technical Skills & Technologies:
   
 ---
 
+### ✧ Developer Dashboard
+
+  <!--START_SECTION:waka-->
+
+```txt
+From: 01 July 2026 - To: 08 July 2026
+
+JavaScript                         ███████████████████░░░░░░   76.33 %
+JSON                               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+Markdown                           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+HTML                               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Git Config                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+```
+
+<!--END_SECTION:waka-->
+
+---
+
 ### ✧ Beyond Code
 
 Writer and plant enthusiast.  
@@ -40,22 +58,4 @@ Come and visit me!
 
 _“Every project is part of the spell. Every bug is part of the ritual”_
 
----
-
-### ✧ Developer Dashboard
-
-  <!--START_SECTION:waka-->
-
-```txt
-From: 01 July 2026 - To: 08 July 2026
-
-JavaScript                         ███████████████████░░░░░░   76.33 %
-JSON                               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-Markdown                           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-HTML                               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-Git Config                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-```
-
-<!--END_SECTION:waka-->
-  
 ---
