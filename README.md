@@ -14,10 +14,10 @@ Full Stack Developer, currently studying and building every day.
 
 Technical Skills & Technologies:
 
-• Frontend: React · JavaScript (ES6+) · HTMX · HTML5/CSS3 · Responsive Design.
-• Backend: Node.js · Python · MySQL · REST APIs & Software Architecture.
-• DevOps & Cloud: Azure · Docker · CI/CD · Git · Virtualization (VirtualBox).
-• IT & IDEs: Systems Administration · Networking · Eclipse IDE · Operating Systems.
+• Frontend: React · JavaScript (ES6+) · HTMX · HTML5/CSS3 · Responsive Design. 
+• Backend: Node.js · Python · MySQL · REST APIs & Software Architecture. 
+• DevOps & Cloud: Azure · Docker · CI/CD · Git · Virtualization (VirtualBox). 
+• IT & IDEs: Systems Administration · Networking · Eclipse IDE · Operating Systems. 
 
 ---
 
