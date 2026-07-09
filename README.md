@@ -58,20 +58,4 @@ Git Config                         ▓░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
   
-<details>
-  <summary>✦ Core Web Technologies</summary>
-
-  <br>
-
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" />
-  </p>
-
-</details>
-
-<!-- 🐌 If you found this, you read source code. Respect. -->
-Hi, hi! 🐌
-
 ---
