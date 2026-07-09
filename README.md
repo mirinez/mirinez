@@ -14,15 +14,10 @@ Full Stack Developer, currently studying and building every day.
 
 Technical Skills & Technologies:
 
-• Frontend: React · JavaScript (ES6+) · HTMX · HTML5/CSS3 · Responsive Design
-
-• Backend: Node.js · Python · MySQL · REST APIs & Software Architecture
-
-• DevOps & Cloud: Azure · Docker · CI/CD · Git · Virtualization (VirtualBox)
-
-• IT & IDEs: Systems Administration · Networking · Eclipse IDE · Operating Systems
-
-_“Every project is part of the spell. Every bug is part of the ritual”_
+• Frontend: React · JavaScript (ES6+) · HTMX · HTML5/CSS3 · Responsive Design.
+• Backend: Node.js · Python · MySQL · REST APIs & Software Architecture.
+• DevOps & Cloud: Azure · Docker · CI/CD · Git · Virtualization (VirtualBox).
+• IT & IDEs: Systems Administration · Networking · Eclipse IDE · Operating Systems.
 
 ---
 
@@ -43,7 +38,7 @@ Come and visit me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=flat&labelColor=ffffff&color=ffffff&logoColor=000000)](https://www.linkedin.com/in/miriam-dominguezm) [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat&labelColor=ffffff&color=ffffff)](https://mirinez.github.io/portfolio) 
 
-_“All technology is a spell, if you know how to read it”_
+_“Every project is part of the spell. Every bug is part of the ritual”_
 
 ---
 
