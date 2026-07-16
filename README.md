@@ -54,7 +54,7 @@ Spanish · German · Italian · English
 
 Come and visit me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=flat&labelColor=ffffff&color=ffffff&logoColor=000000)](https://www.linkedin.com/in/miriam-dominguezm) [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat&labelColor=ffffff&color=ffffff)](https://mirinez.github.io/portfolio) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=flat&labelColor=ffffff&color=ffffff&logoColor=000000)](https://www.linkedin.com/in/miriam-dominguezm) [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat&labelColor=ffffff&color=ffffff)](https://www.miriam-dominguezm.com/)) 
 
 _“Every project is part of the spell. Every bug is part of the ritual”_
 
