@@ -22,13 +22,13 @@ Technical Skills & Technologies:
   <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2026 - To: 15 September 2026
+From: 09 September 2026 - To: 16 September 2026
 
-JavaScript                         ███████████████▒░░░░░░░░░   61.37 %
-TypeScript                         ████████░░░░░░░░░░░░░░░░░   31.71 %
-Other                              █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-CSS                                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-TSConfig                           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+JavaScript                         ████████████████▓░░░░░░░░   67.27 %
+TypeScript                         ██████▓░░░░░░░░░░░░░░░░░░   26.87 %
+Other                              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+CSS                                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+TSConfig                           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
