@@ -22,11 +22,10 @@ Technical Skills & Technologies:
   <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2026 - To: 19 September 2026
+From: 13 September 2026 - To: 20 September 2026
 
-JavaScript                         ████████████████████████▓   98.43 %
-JSON                               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-TypeScript                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+JavaScript                         ████████████████████████▓   98.69 %
+JSON                               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
